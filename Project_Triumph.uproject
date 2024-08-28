@@ -80,6 +80,10 @@
 		{
 			"Name": "WebMMedia",
 			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
