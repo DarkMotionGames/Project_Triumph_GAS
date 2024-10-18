@@ -2,7 +2,7 @@
 #pragma once
 
 #include "GameplayEffectTypes.h"
-#include "GameAbilitySystemTypes.generated.h"
+#include "MainAbilitySystemTypes.generated.h"
 
 USTRUCT(BlueprintType)
 struct FMainGameplayEffectContext : public FGameplayEffectContext
