@@ -20,7 +20,7 @@ public:
 	/** Returns the actual struct used for serialization */
 	virtual UScriptStruct* GetScriptStruct() const override
 	{
-		return FGameplayEffectContext::StaticStruct();
+		return StaticStruct();
 	}
 	
 	/** Custom serialization */
@@ -33,5 +33,4 @@ protected:
 
 	UPROPERTY()
 	bool bIsCriticalHit = false;
-	
 };

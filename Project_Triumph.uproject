@@ -94,6 +94,11 @@
 		{
 			"Name": "PlasticSourceControl",
 			"Enabled": false
+		},
+		{
+			"Name": "TabRestore",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f5f9d4ce7bac4dd5beec9cf98238a49a"
 		}
 	]
 }
