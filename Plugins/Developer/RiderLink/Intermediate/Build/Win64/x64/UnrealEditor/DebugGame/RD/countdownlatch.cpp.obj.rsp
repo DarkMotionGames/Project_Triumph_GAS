@@ -1,8 +1,10 @@
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Source\RD\thirdparty\countdownlatch\countdownlatch.cpp"
 /FI"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\Definitions.h"
 /Fo"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\countdownlatch.cpp.obj"
+/experimental:log "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\countdownlatch.cpp.sarif"
 /sourceDependencies "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\countdownlatch.cpp.dep.json"
 @"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\RD.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

@@ -34,7 +34,8 @@
 			"instantiations_RdEditorRoot.cpp.obj",
 			"LiveCodingModel.Pregenerated.cpp.obj",
 			"RdEditorModel.Pregenerated.cpp.obj",
-			"RdEditorRoot.Pregenerated.cpp.obj"
+			"RdEditorRoot.Pregenerated.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
 		]
 	}
 }

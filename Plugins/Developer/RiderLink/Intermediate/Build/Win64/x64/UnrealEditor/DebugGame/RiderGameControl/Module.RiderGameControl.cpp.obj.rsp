@@ -1,8 +1,10 @@
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Module.RiderGameControl.cpp"
 /FI"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Definitions.h"
 /Fo"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Module.RiderGameControl.cpp.obj"
+/experimental:log "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Module.RiderGameControl.cpp.sarif"
 /sourceDependencies "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\Module.RiderGameControl.cpp.dep.json"
 @"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderGameControl\RiderGameControl.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

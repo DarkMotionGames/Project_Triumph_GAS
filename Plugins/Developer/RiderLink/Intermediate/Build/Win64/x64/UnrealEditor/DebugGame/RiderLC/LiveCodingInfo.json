@@ -2,7 +2,8 @@
 	"RemapUnityFiles": 
 	{
 		"Module.RiderLC.cpp.obj": [
-			"RiderLC.cpp.obj"
+			"RiderLC.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
 		]
 	}
 }

@@ -6,7 +6,8 @@
 			"DebugLogger.cpp.obj",
 			"RiderDebuggerSupport.cpp.obj",
 			"UnrealFunctions.cpp.obj",
-			"WideStringWrapper.cpp.obj"
+			"WideStringWrapper.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
 		]
 	}
 }

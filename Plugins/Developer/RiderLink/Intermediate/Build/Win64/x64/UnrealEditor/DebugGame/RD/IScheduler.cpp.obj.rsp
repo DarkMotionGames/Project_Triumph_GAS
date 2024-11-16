@@ -1,8 +1,10 @@
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler\base\IScheduler.cpp"
 /FI"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\Definitions.h"
 /Fo"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\IScheduler.cpp.obj"
+/experimental:log "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\IScheduler.cpp.sarif"
 /sourceDependencies "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\IScheduler.cpp.dep.json"
 @"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\RD.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

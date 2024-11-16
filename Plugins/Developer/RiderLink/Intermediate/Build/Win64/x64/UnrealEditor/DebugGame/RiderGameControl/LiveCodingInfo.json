@@ -2,7 +2,8 @@
 	"RemapUnityFiles": 
 	{
 		"Module.RiderGameControl.cpp.obj": [
-			"RiderGameControl.cpp.obj"
+			"RiderGameControl.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
 		]
 	}
 }

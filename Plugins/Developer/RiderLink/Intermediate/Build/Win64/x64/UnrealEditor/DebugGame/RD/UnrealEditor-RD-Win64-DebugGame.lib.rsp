@@ -61,5 +61,6 @@
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\fmt.cpp.obj"
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\spdlog.cpp.obj"
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\stdout_sinks.cpp.obj"
+"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\PerModuleInline.gen.cpp.obj"
 "C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\Default.rc2.res"
 /OUT:"C:\Unreal Projects\Project_Triumph\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\UnrealEditor-RD-Win64-DebugGame.lib"

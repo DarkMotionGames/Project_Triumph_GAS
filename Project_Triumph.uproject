@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -63,11 +63,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ProjectCleaner",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d7f5dc837fc4b009bb91e678adf9fd0"
-		},
-		{
 			"Name": "XCodeSourceCodeAccess",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -83,22 +78,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GmGameplayAbilitySystem",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c0e3fece3f4c4fa0a28e5dbc17020987"
-		},
-		{
-			"Name": "Cargo",
-			"Enabled": false
-		},
-		{
 			"Name": "PlasticSourceControl",
 			"Enabled": false
-		},
-		{
-			"Name": "TabRestore",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f5f9d4ce7bac4dd5beec9cf98238a49a"
 		}
 	]
 }
