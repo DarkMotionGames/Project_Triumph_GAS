@@ -5,7 +5,7 @@
 
 bool FMainGameplayEffectContext::NetSerialize(FArchive& Ar, class UPackageMap* Map, bool& bOutSuccess)
 {
-	uint32 RepBits = 0;
+	uint8 RepBits = 0;
 	if (Ar.IsSaving())
 	{
 		if (bReplicateInstigator && Instigator.IsValid())
@@ -45,7 +45,9 @@ bool FMainGameplayEffectContext::NetSerialize(FArchive& Ar, class UPackageMap* M
 			RepBits |= 1 << 8;
 		}
 	}
+
 	Ar.SerializeBits(&RepBits, 9);
+
 	if (RepBits & (1 << 0))
 	{
 		Ar << Instigator;
@@ -94,11 +96,12 @@ bool FMainGameplayEffectContext::NetSerialize(FArchive& Ar, class UPackageMap* M
 	{
 		Ar << bIsCriticalHit;
 	}
+
 	if (Ar.IsLoading())
 	{
 		AddInstigator(Instigator.Get(), EffectCauser.Get()); // Just to initialize InstigatorAbilitySystemComponent
 	}	
-
+	
 	bOutSuccess = true;
 	return true;
 }
